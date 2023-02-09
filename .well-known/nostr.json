@@ -1,0 +1,15 @@
+{
+  "names": {
+    "_": "f1db37389f268a87afe95ab0f4f1e6302ca0cc21cd36294323a9352e3374985a"
+  },
+  "relays": {
+    "f1db37389f268a87afe95ab0f4f1e6302ca0cc21cd36294323a9352e3374985a": [
+      "wss://nostr.wine",
+      "wss://www.eden.nostr.land",
+      "wss://nostr.h3z.jp",
+      "wss://private.red.gb.net",
+      "wss://relay.orangepill.dev",
+      "wss://nostr.decentony.com",
+      "wss://relay-jp.nostr.wirednet.jp"]
+  }
+}
